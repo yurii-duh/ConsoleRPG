@@ -54,6 +54,11 @@ private:
 
     int gold;
 
+<<<<<<< HEAD
+=======
+    //Weapon
+    Weapon* weapon;
+>>>>>>> 418ce3b... Weapon class created and some cosmetic fixes and some minor combat balancing
     //Inventory
     Inventory inventory;
 
@@ -80,6 +85,7 @@ public:
     inline const int getDefence() const { return this->defence; }
     inline const int getHitRating() const { return this->hitRating; }
     inline const int getLocation() const { return this->location; }
+    Weapon* getWeapon();
 
     //Modifiers
     void setLocation(const int location);

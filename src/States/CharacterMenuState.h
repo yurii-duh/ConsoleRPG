@@ -10,6 +10,10 @@
 #include "../Character.h"
 #include "State.h"
 #include "CharacterStatMenuState.h"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 418ce3b... Weapon class created and some cosmetic fixes and some minor combat balancing
 
 
 class CharacterMenuState : public State

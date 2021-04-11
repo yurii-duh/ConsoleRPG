@@ -7,7 +7,11 @@
 
 #include<sstream>
 #include<string>
+<<<<<<< HEAD
 #include "Item.h"
+=======
+#include "Weapon.h"
+>>>>>>> 418ce3b... Weapon class created and some cosmetic fixes and some minor combat balancing
 
 class Inventory {
 private:
