@@ -1,7 +1,7 @@
 //
 // Created by Vadik on 27.03.2021.
 //
-
+//s
 #include "Character.h"
 
 void Character::updateSkills()
